@@ -30,7 +30,7 @@ int main(int argc, char const *argv[])
 void dashboard()
 {
     printf("\e[1;1H\e[2J");
-    puts("**************************DASHBOARD********************************\n");
+    puts("**************************DASHBOARD TEST********************************\n");
 
     puts("Input '1' untuk Search\n");
 
